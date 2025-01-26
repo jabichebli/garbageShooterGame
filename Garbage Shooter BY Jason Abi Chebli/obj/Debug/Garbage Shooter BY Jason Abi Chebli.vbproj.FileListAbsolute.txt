@@ -1,0 +1,12 @@
+Z:\Science Talent Search V1\Garbage Shooter BY Jason Abi Chebli\Garbage Shooter BY Jason Abi Chebli\bin\Debug\Garbage Shooter BY Jason Abi Chebli.exe.config
+Z:\Science Talent Search V1\Garbage Shooter BY Jason Abi Chebli\Garbage Shooter BY Jason Abi Chebli\bin\Debug\Garbage Shooter BY Jason Abi Chebli.exe
+Z:\Science Talent Search V1\Garbage Shooter BY Jason Abi Chebli\Garbage Shooter BY Jason Abi Chebli\bin\Debug\Garbage Shooter BY Jason Abi Chebli.pdb
+Z:\Science Talent Search V1\Garbage Shooter BY Jason Abi Chebli\Garbage Shooter BY Jason Abi Chebli\bin\Debug\Garbage Shooter BY Jason Abi Chebli.xml
+Z:\Science Talent Search V1\Garbage Shooter BY Jason Abi Chebli\Garbage Shooter BY Jason Abi Chebli\obj\Debug\Garbage Shooter BY Jason Abi Chebli.vbprojResolveAssemblyReference.cache
+Z:\Science Talent Search V1\Garbage Shooter BY Jason Abi Chebli\Garbage Shooter BY Jason Abi Chebli\obj\Debug\Garbage_Shooter_BY_Jason_Abi_Chebli.Form1.resources
+Z:\Science Talent Search V1\Garbage Shooter BY Jason Abi Chebli\Garbage Shooter BY Jason Abi Chebli\obj\Debug\Garbage_Shooter_BY_Jason_Abi_Chebli.Resources.resources
+Z:\Science Talent Search V1\Garbage Shooter BY Jason Abi Chebli\Garbage Shooter BY Jason Abi Chebli\obj\Debug\Garbage_Shooter_BY_Jason_Abi_Chebli.SplashScreen1.resources
+Z:\Science Talent Search V1\Garbage Shooter BY Jason Abi Chebli\Garbage Shooter BY Jason Abi Chebli\obj\Debug\Garbage Shooter BY Jason Abi Chebli.vbproj.GenerateResource.Cache
+Z:\Science Talent Search V1\Garbage Shooter BY Jason Abi Chebli\Garbage Shooter BY Jason Abi Chebli\obj\Debug\Garbage Shooter BY Jason Abi Chebli.exe
+Z:\Science Talent Search V1\Garbage Shooter BY Jason Abi Chebli\Garbage Shooter BY Jason Abi Chebli\obj\Debug\Garbage Shooter BY Jason Abi Chebli.xml
+Z:\Science Talent Search V1\Garbage Shooter BY Jason Abi Chebli\Garbage Shooter BY Jason Abi Chebli\obj\Debug\Garbage Shooter BY Jason Abi Chebli.pdb
